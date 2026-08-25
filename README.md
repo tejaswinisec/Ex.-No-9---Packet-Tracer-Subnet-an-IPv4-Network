@@ -1,5 +1,5 @@
 # Ex. No: 9 - Packet Tracer: Subnet an IPv4 Network
-# Date: ___________
+# Date: 25\08\2026
 ________________________________________ <br>
 # Objective
 Design, configure, and verify an IPv4 subnetting scheme in Cisco Packet Tracer.<br>
@@ -20,9 +20,11 @@ ________________________________________
 •	Serial DCE/DTE cable for WAN link<br>
 ________________________________________<br>
 # Network Topology Diagram
-(Insert your Packet Tracer screenshot showing CustomerRouter → LAN-A Switch → PC-A, CustomerRouter → LAN-B Switch → PC-B, and ISP side with Router, Switch, Workstation, Server, and Serial link.)<br>
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/24e7c498-fc05-405f-a64b-0bb15a77a528" />
+
 ________________________________________<br>
-# Addressing Table
+# Addressing Table!
+
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
 CustomerRouter	G0/0	(1st host of LAN-A subnet)	(Subnet mask)	N/A<br>
 CustomerRouter	G0/1	(1st host of LAN-B subnet)	(Subnet mask)	N/A<br>
@@ -94,8 +96,15 @@ ________________________________________<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
 •	show ip interface brief on CustomerRouter<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-08-25 at 11 46 41" src="https://github.com/user-attachments/assets/f66dd89e-0172-4ef4-adbd-29cf24ef02e6" />
+
 •	show ip route<br>
+<img width="1600" height="1000" alt="WhatsApp Image 2026-08-25 at 11 46 41" src="https://github.com/user-attachments/assets/42d8e4f1-e556-421c-a0da-e1d074854208" />
+
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/607b5bad-dd4c-4d81-8afd-3ebe65cccecc" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/adf00e53-0b4c-4d7c-b204-e49133f508ec" />
+
 ________________________________________<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Router, switches, and PCs were configured with correct addressing. Connectivity within LANs, across subnets, and to ISP devices was verified using ping and show commands.<br>
