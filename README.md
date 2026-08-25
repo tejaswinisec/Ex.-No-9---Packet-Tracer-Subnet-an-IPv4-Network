@@ -99,7 +99,8 @@ ________________________________________<br>
 <img width="1600" height="1000" alt="WhatsApp Image 2026-08-25 at 11 46 41" src="https://github.com/user-attachments/assets/f66dd89e-0172-4ef4-adbd-29cf24ef02e6" />
 
 •	show ip route<br>
-<img width="1600" height="1000" alt="WhatsApp Image 2026-08-25 at 11 46 41" src="https://github.com/user-attachments/assets/42d8e4f1-e556-421c-a0da-e1d074854208" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/5c10011d-3278-4692-a7ea-2477be01d448" />
+/>
 
 •	Successful pings: PC-A → PC-B, PC-A → ISP Server<br>
 <img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/607b5bad-dd4c-4d81-8afd-3ebe65cccecc" />
